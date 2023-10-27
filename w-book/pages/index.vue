@@ -7,6 +7,8 @@
 
 <script setup>
 import { message } from "ant-design-vue"
+import { message } from "ant-design-vue"
+import { message } from "ant-design-vue"
 
 import { useMyStore } from '~/store/myStore'
 
